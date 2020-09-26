@@ -1,0 +1,17 @@
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic tac toi.exe
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic tac toi.pdb
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\bin\Debug\tic tac toi.exe
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\bin\Debug\tic tac toi.pdb
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\Tic Tac Toe.csprojResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic_tac_toi.Form1.resources
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic_tac_toi.Form2.resources
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic_tac_toi.Properties.Resources.resources
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\Tic Tac Toe.csproj.GenerateResource.Cache
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\bin\Debug\tic tac toi.exe.config
+D:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic_tac_toi.Form3.resources
+D:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic_tac_toi.Form4.resources
+D:\visual studio 2010\Projects\tic tac toi\tic tac toi\bin\Debug\Information.mdf
+D:\visual studio 2010\Projects\tic tac toi\tic tac toi\bin\Debug\Information_log.ldf
+F:\Program_Projects\tic tac toi\tic tac toi\bin\Debug\tic tac toi.exe.config
+F:\Program_Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic tac toi.exe
+F:\Program_Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic tac toi.pdb

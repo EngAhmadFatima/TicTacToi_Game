@@ -1,0 +1,8 @@
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\bin\Debug\tic tac toi.exe
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\bin\Debug\tic tac toi.pdb
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic_tac_toi.Form1.resources
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic_tac_toi.Properties.Resources.resources
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic tac toi.csproj.GenerateResource.Cache
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic tac toi.exe
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic tac toi.pdb
+d:\visual studio 2010\Projects\tic tac toi\tic tac toi\obj\x86\Debug\tic_tac_toi.Form2.resources
